@@ -1,2 +1,7 @@
 # BD-BeautyCorner
-Jaqueline Galindo Huitrón
+
+## Jaqueline Galindo Huitrón
+
+### Tabla Ventas
+
+### Base de Datos en phpmyadmin
